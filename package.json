@@ -1,0 +1,29 @@
+{
+  "name": "external-load",
+  "version": "1.0.0",
+  "description": "This small library helps you to load external javascript / css from url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MmtBkn/external-load.git"
+  },
+  "keywords": [
+    "load",
+    "external",
+    "javascript",
+    "css",
+    "angular",
+    "react",
+    "from",
+    "url"
+  ],
+  "author": "MmtBkn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MmtBkn/external-load/issues"
+  },
+  "homepage": "https://github.com/MmtBkn/external-load#readme"
+}
